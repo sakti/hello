@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(world)
+	fmt.Println("world")
 	fmt.Println(hello.Version)
 }
